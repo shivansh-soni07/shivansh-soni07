@@ -5,7 +5,7 @@
 
 - 🌱 On the way to master Full Stack Development **using MERN Stack**
 
-- 💬 Ask me about **React , Web Development , DSA**
+- 💬 Ask me about **React , Web Development , NodeJS , ExpressJS , DSA**
 
 - 📫 How to reach me **s.shivansh94550@gmail.com**
 
