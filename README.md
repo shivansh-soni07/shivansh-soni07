@@ -1,5 +1,5 @@
-<h2 align="center">Hi, Shivansh 👋🏻 here, final year CS grad. Full-stack for now, but backend's my true love. ❤️</h2>
-
+<h2 align="center">Hi, Shivansh 👋🏻 here, final year CS grad.</h2>
+<h3 align="center"> Full-stack for now, but backend's my true love. ❤️</h3>
 ###
 
 <img align="right" height="150" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1704428402~exp=1704432002~hmac=dab0caab4cdc35e004f8ad1d6097614a7e74451b34ae2fb62cb109fdba5bf20c&w=1060"  />
