@@ -1,17 +1,13 @@
 <h2 align="center">Hi, Shivansh 👋🏻 here, final year CS grad.</h2>
 <h3 align="center"> Full-stack for now, but backend's my true love. ❤️</h3>
-###
-
-<img align="right" height="150" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1704428402~exp=1704432002~hmac=dab0caab4cdc35e004f8ad1d6097614a7e74451b34ae2fb62cb109fdba5bf20c&w=1060"  />
-
-###
+ 
 
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivanshsoni07/) 
 
----
-[![](https://visitcount.itsvg.in/api?id=shivansh-soni07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+ 
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -88,6 +84,7 @@
 # 📊 GitHub Stats:
 ![shivansh-soni07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivansh-soni07&theme=default&hide_border=false)
 ![shivansh-soni07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-soni07&theme=default&show_icons=true&hide_border=false&layout=compact)
+[![](https://leetcard.jacoblin.cool/shivansh_07?site=cn)](https://leetcard.jacoblin.cool/shivansh_07?theme=dark&font=Grandstander&ext=heatmap)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
