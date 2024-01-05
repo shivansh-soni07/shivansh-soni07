@@ -83,8 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-# Configuration
-https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white
+ 
 
 # 📊 GitHub Stats:
 ![shivansh-soni07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivansh-soni07&theme=default&hide_border=false)
