@@ -1,8 +1,7 @@
 <h2 align="center">Hi, Shivansh 👋🏻 here, final year CS grad. Full-stack for now, but backend's my true love. ❤️</h2>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+ 
 
 ###
 
