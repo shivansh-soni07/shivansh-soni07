@@ -9,10 +9,10 @@
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivanshsoni07/) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=shivansh-soni07&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💻 Tech Stack:
- 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -83,11 +83,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivansh-soni07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivansh-soni07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-soni07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Configuration
+https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white
 
+# 📊 GitHub Stats:
+![shivansh-soni07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivansh-soni07&theme=default&hide_border=false)
+![shivansh-soni07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-soni07&theme=default&show_icons=true&hide_border=false&layout=compact)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
