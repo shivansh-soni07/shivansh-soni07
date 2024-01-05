@@ -84,10 +84,7 @@
 # 📊 GitHub Stats:
 ![shivansh-soni07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivansh-soni07&theme=default&hide_border=false)
 ![shivansh-soni07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-soni07&theme=default&show_icons=true&hide_border=false&layout=compact)
-[![](https://leetcard.jacoblin.cool/shivansh_07?site=cn)](https://leetcard.jacoblin.cool/shivansh_07?theme=dark&font=Grandstander&ext=heatmap)
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
