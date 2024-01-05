@@ -1,4 +1,4 @@
-<h2 align="center">Hi, Shivansh 👋🏻 here, final year CS grad.</h2>
+<h2 align="center">Hi, Shivansh 👋🏻 here, Final year CS grad.</h2>
 <h3 align="center"> Full-stack for now, but backend's my true love. ❤️</h3>
  
 
@@ -85,6 +85,4 @@
 ![shivansh-soni07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivansh-soni07&theme=default&hide_border=false)
 ![shivansh-soni07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-soni07&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-
-
-
+ 
