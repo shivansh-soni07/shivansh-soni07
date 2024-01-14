@@ -1,6 +1,7 @@
 <h2 align="center">Hi, Shivansh 👋🏻 here, Final year CS grad.</h2>
 <h3 align="center"> Full-stack for now, but backend's my true love. ❤️</h3>
  
+<img width="50%" height="70%" align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
  
 ## 🌐 Socials:
@@ -79,6 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 
 # 📊 GitHub Stats:
