@@ -1,4 +1,4 @@
-<h2 align="center">Hi, Shivansh 👋🏻 here, Final year CS grad.</h2>
+<h2 align="center">Hi, Shivansh 👋🏻 here, Currently Automation Engineer@Arive.</h2>
 <h3 align="center"> Full-stack for now, but backend's my true love. ❤️</h3>
  
 <img width="50%" height="70%" align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
